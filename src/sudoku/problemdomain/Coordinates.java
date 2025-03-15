@@ -1,4 +1,4 @@
-package problemdomain;
+package sudoku.problemdomain;
 
 import java.util.Objects;
 
