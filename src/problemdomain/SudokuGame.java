@@ -8,7 +8,7 @@ public class SudokuGame implements Serializable {
 	private final int[][] gridstate;
 	
 	
-	public statis final GRID_BOUNDARY = 9;
+	public static final int GRID_BOUNDARY = 9;
 	
 	public SudokuGame(GameState gameState, int[][] gridstate) {
 		super();
